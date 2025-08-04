@@ -1,0 +1,17 @@
+[
+    {
+      "titulo": "Primeiro Artigo",
+      "autor": "João Silva",
+      "data": "2025-08-01",
+      "conteudo": "Este é o conteúdo do primeiro artigo.",
+      "slug": "primeiro-artigo"
+    },
+    {
+      "titulo": "Segundo Artigo",
+      "autor": "Maria Oliveira",
+      "data": "2025-08-02",
+      "conteudo": "Este é o conteúdo do segundo artigo.",
+      "slug": "segundo-artigo"
+    }
+  ]
+  
