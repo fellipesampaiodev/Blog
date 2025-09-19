@@ -5,8 +5,8 @@
       "dev": "next dev",
       "build": "next build",
       "start": "next start",
-      "lint": "echo 'TODO',
-      "test": "echo 'TODO'
+      "lint": "echo 'TODO'",
+      "test": "echo 'TODO'"
     },
     "dependencies": {
       "next": "15.0.0",
@@ -24,4 +24,5 @@
   }
 
   
+
 
